@@ -1,0 +1,6 @@
+[submodule "nDPI"]
+	path = nDPI
+	url = https://github.com/ntop/nDPI.git
+[submodule "wireshark"]
+	path = wireshark
+	url = https://github.com/wireshark/wireshark.git
